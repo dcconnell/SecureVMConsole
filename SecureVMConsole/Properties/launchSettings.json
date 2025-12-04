@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecureVMConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
