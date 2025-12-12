@@ -2,6 +2,10 @@
 
 This project aims to be a quick (under 10 secs) spin-up of a VM to view/edit documents safely and effeciently from emails.
 
+Utilizing Oracle VM for now, may swap or create our own VM in the future.
+
+Attempting to create a POC.
+
 Goals:
   * Support most major extensions
   * Spin-up VM in under 10 secs to view file
