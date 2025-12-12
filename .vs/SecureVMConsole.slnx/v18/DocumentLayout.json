@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\_repos\\SecureVMConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|c:\\_repos\\securevmconsole\\securevmconsole\\hypervmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|solutionrelative:securevmconsole\\hypervmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|c:\\_repos\\securevmconsole\\securevmconsole\\oraclevbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|solutionrelative:securevmconsole\\oraclevbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|c:\\_repos\\securevmconsole\\securevmconsole\\powershellcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|solutionrelative:securevmconsole\\powershellcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|c:\\_repos\\securevmconsole\\securevmconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,9 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|c:\\_repos\\securevmconsole\\securevmconsole\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9B9ACC35-B2E7-D2C2-3E2F-8A81E2C5F8BE}|SecureVMConsole\\SecureVMConsole.csproj|solutionrelative:securevmconsole\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,19 +30,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Container.targets",
-              "DocumentMoniker": "C:\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
-              "RelativeDocumentMoniker": "..\\..\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
-              "ToolTip": "C:\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
-              "RelativeToolTip": "..\\..\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
-              "ViewState": "AgIAANAAAAAAAAAAAADgv+QAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-04T02:46:43.751Z"
+              "DocumentIndex": 1,
+              "Title": "PowerShellCommands.cs",
+              "DocumentMoniker": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\PowerShellCommands.cs",
+              "RelativeDocumentMoniker": "SecureVMConsole\\PowerShellCommands.cs",
+              "ToolTip": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\PowerShellCommands.cs",
+              "RelativeToolTip": "SecureVMConsole\\PowerShellCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:59:09.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\Dockerfile",
               "RelativeDocumentMoniker": "SecureVMConsole\\Dockerfile",
@@ -49,31 +51,30 @@
               "RelativeToolTip": "SecureVMConsole\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-04T02:46:15.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:46:15.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HyperVManager.cs",
-              "DocumentMoniker": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\HyperVManager.cs",
-              "RelativeDocumentMoniker": "SecureVMConsole\\HyperVManager.cs",
-              "ToolTip": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\HyperVManager.cs",
-              "RelativeToolTip": "SecureVMConsole\\HyperVManager.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAABaAAAAAAAAAA==",
+              "Title": "OracleVBManager.cs",
+              "DocumentMoniker": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\OracleVBManager.cs",
+              "RelativeDocumentMoniker": "SecureVMConsole\\OracleVBManager.cs",
+              "ToolTip": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\OracleVBManager.cs",
+              "RelativeToolTip": "SecureVMConsole\\OracleVBManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T02:40:43.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\Program.cs",
               "RelativeDocumentMoniker": "SecureVMConsole\\Program.cs",
               "ToolTip": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\Program.cs",
               "RelativeToolTip": "SecureVMConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T02:26:02.388Z",
               "EditorCaption": ""

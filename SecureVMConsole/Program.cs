@@ -3,4 +3,4 @@ using SecureVMConsole;
 
 Console.WriteLine("Hello, World!");
 
-HyperVManager.StartVirtualMachine("TestVM01");
+OracleVBManager.StartVirtualMachine("TestVM01");
