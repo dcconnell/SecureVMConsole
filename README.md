@@ -1,6 +1,6 @@
 # SecureVMConsole
 
-This project aims to be a quick (under 10 secs) spin-up of a VM to view/edit documents safely and effeciently via email.
+This project aims to be a quick (under 10 secs) spin-up of a VM to view/edit documents safely and effeciently from emails.
 
 Goals:
   * Support most major extensions
