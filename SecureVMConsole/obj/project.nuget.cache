@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "f0bqrsE9z9c=",
+  "dgSpecHash": "nftWGEYuP7k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\reald\\source\\repos\\SecureVMConsole\\SecureVMConsole\\SecureVMConsole.csproj",
+  "projectFilePath": "C:\\_repos\\SecureVMConsole\\SecureVMConsole\\SecureVMConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reald\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.0\\microsoft.dotnet.ilcompiler.10.0.0.nupkg.sha512",
     "C:\\Users\\reald\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.0\\microsoft.net.illink.tasks.10.0.0.nupkg.sha512",
     "C:\\Users\\reald\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\reald\\.nuget\\packages\\system.codedom\\10.0.0\\system.codedom.10.0.0.nupkg.sha512",
+    "C:\\Users\\reald\\.nuget\\packages\\system.management\\10.0.0\\system.management.10.0.0.nupkg.sha512",
     "C:\\Users\\reald\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.0.nupkg.sha512"
   ],
   "logs": []
